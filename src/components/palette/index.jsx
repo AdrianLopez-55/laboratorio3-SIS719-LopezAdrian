@@ -25,4 +25,5 @@ const Palette = () => {
         </div>
     );
 }
+
 export default Palette;

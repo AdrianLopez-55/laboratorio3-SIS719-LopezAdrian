@@ -6,7 +6,6 @@ export const useStyles = makeStyles( theme => ({
         display: 'flex',
         flexDirection: '',
         alignItems: 'center',
-        justifyContent: 'center'
     },
     main: {
         background: theme.palette.colors.main,

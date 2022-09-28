@@ -21,6 +21,9 @@ const theme = createTheme({
             main: '#f44336',
             dark: '#ba000d',
             contrastText: '#000',
+        },
+        tertiary: {
+            contrastText: '#ff2d00'
         }
     }
 });
